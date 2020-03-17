@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: e84267054a40fce4791f046ee66efcfb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: COL_Body
+    100004: COL_L_Back_Wheel_Supension
+    100006: COL_L_Front_Wheel_Supension
+    100008: COL_R_Back_Wheel_Supension
+    100010: COL_R_Front_Wheel_Supension
+    100012: L_Back_Wheel
+    100014: L_Back_Wheel_Bone
+    100016: L_Back_Wheel_Supension
+    100018: L_Front_Wheel
+    100020: L_Front_Wheel_Bone
+    100022: L_Front_Wheel_Supension
+    100024: R_Back_Wheel
+    100026: R_Back_Wheel_Bone
+    100028: R_Back_Wheel_Supension
+    100030: R_Front_Wheel
+    100032: R_Front_Wheel_Bone
+    100034: R_Front_Wheel_Supension
+    100036: Sail
+    100038: Sail 1
+    100040: Sail_Bone
+    100042: Supension
+    100044: Wheels
+    100046: //RootNode
+    400000: Body
+    400002: COL_Body
+    400004: COL_L_Back_Wheel_Supension
+    400006: COL_L_Front_Wheel_Supension
+    400008: COL_R_Back_Wheel_Supension
+    400010: COL_R_Front_Wheel_Supension
+    400012: L_Back_Wheel
+    400014: L_Back_Wheel_Bone
+    400016: L_Back_Wheel_Supension
+    400018: L_Front_Wheel
+    400020: L_Front_Wheel_Bone
+    400022: L_Front_Wheel_Supension
+    400024: R_Back_Wheel
+    400026: R_Back_Wheel_Bone
+    400028: R_Back_Wheel_Supension
+    400030: R_Front_Wheel
+    400032: R_Front_Wheel_Bone
+    400034: R_Front_Wheel_Supension
+    400036: Sail
+    400038: Sail 1
+    400040: Sail_Bone
+    400042: Supension
+    400044: Wheels
+    400046: //RootNode
+    2100000: lambert1
+    2100002: lambert3
+    2300000: Body
+    2300002: COL_Body
+    2300004: COL_L_Back_Wheel_Supension
+    2300006: COL_L_Front_Wheel_Supension
+    2300008: COL_R_Back_Wheel_Supension
+    2300010: COL_R_Front_Wheel_Supension
+    2300012: L_Back_Wheel
+    2300014: L_Back_Wheel_Supension
+    2300016: L_Front_Wheel
+    2300018: L_Front_Wheel_Supension
+    2300020: R_Back_Wheel
+    2300022: R_Back_Wheel_Supension
+    2300024: R_Front_Wheel
+    2300026: R_Front_Wheel_Supension
+    2300028: Sail 1
+    3300000: Body
+    3300002: COL_Body
+    3300004: COL_L_Back_Wheel_Supension
+    3300006: COL_L_Front_Wheel_Supension
+    3300008: COL_R_Back_Wheel_Supension
+    3300010: COL_R_Front_Wheel_Supension
+    3300012: L_Back_Wheel
+    3300014: L_Back_Wheel_Supension
+    3300016: L_Front_Wheel
+    3300018: L_Front_Wheel_Supension
+    3300020: R_Back_Wheel
+    3300022: R_Back_Wheel_Supension
+    3300024: R_Front_Wheel
+    3300026: R_Front_Wheel_Supension
+    3300028: Sail 1
+    4300000: Body
+    4300002: COL_Body
+    4300004: R_Front_Wheel
+    4300006: L_Front_Wheel
+    4300008: R_Back_Wheel
+    4300010: L_Back_Wheel
+    4300012: Sail
+    4300014: L_Back_Wheel_Supension
+    4300016: COL_L_Back_Wheel_Supension
+    4300018: R_Back_Wheel_Supension
+    4300020: COL_R_Back_Wheel_Supension
+    4300022: R_Front_Wheel_Supension
+    4300024: COL_R_Front_Wheel_Supension
+    4300026: L_Front_Wheel_Supension
+    4300028: COL_L_Front_Wheel_Supension
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

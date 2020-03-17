@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 717b333b256cd8d4b958271e30821d66
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: collid_av_L
+    100002: collid_av_R
+    100004: collid_corp
+    100006: collid_guard
+    100008: collid_guard1
+    100010: collid_sails
+    100012: collid_wheel_L
+    100014: collid_wheel_R
+    100016: corp
+    100018: garde_boue_L
+    100020: garde_boue_R
+    100022: //RootNode
+    100024: sails
+    100026: sails_point
+    100028: susp_avL
+    100030: susp_avR
+    100032: susp_L
+    100034: susp_R
+    100036: wheel_avL
+    100038: wheel_avR
+    100040: Wheel_L
+    100042: Wheel_R
+    400000: collid_av_L
+    400002: collid_av_R
+    400004: collid_corp
+    400006: collid_guard
+    400008: collid_guard1
+    400010: collid_sails
+    400012: collid_wheel_L
+    400014: collid_wheel_R
+    400016: corp
+    400018: garde_boue_L
+    400020: garde_boue_R
+    400022: //RootNode
+    400024: sails
+    400026: sails_point
+    400028: susp_avL
+    400030: susp_avR
+    400032: susp_L
+    400034: susp_R
+    400036: wheel_avL
+    400038: wheel_avR
+    400040: Wheel_L
+    400042: Wheel_R
+    2100000: lambert1
+    2100002: lambert2
+    2300000: collid_av_L
+    2300002: collid_av_R
+    2300004: collid_corp
+    2300006: collid_guard
+    2300008: collid_guard1
+    2300010: collid_sails
+    2300012: collid_wheel_L
+    2300014: collid_wheel_R
+    2300016: corp
+    2300018: garde_boue_L
+    2300020: garde_boue_R
+    2300022: sails
+    2300024: wheel_avL
+    2300026: wheel_avR
+    2300028: Wheel_L
+    2300030: Wheel_R
+    3300000: collid_av_L
+    3300002: collid_av_R
+    3300004: collid_corp
+    3300006: collid_guard
+    3300008: collid_guard1
+    3300010: collid_sails
+    3300012: collid_wheel_L
+    3300014: collid_wheel_R
+    3300016: corp
+    3300018: garde_boue_L
+    3300020: garde_boue_R
+    3300022: sails
+    3300024: wheel_avL
+    3300026: wheel_avR
+    3300028: Wheel_L
+    3300030: Wheel_R
+    4300000: corp
+    4300002: collid_corp
+    4300004: Wheel_R
+    4300006: collid_wheel_R
+    4300008: garde_boue_R
+    4300010: collid_guard
+    4300012: Wheel_L
+    4300014: collid_wheel_L
+    4300016: garde_boue_L
+    4300018: collid_guard1
+    4300020: wheel_avR
+    4300022: collid_av_R
+    4300024: wheel_avL
+    4300026: collid_av_L
+    4300028: sails
+    4300030: collid_sails
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

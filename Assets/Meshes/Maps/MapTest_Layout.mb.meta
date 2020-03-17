@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 4e6dddd55ae6f264f99e0d8af6703d34
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bend_12t12_24x24_0
+    100002: bend_pant_12t12_24x24_0
+    100004: bend_pant_12t12_24x24_1
+    100006: bend_pant_12t12_24x24_2
+    100008: bend_pant_12t12_24x24_3
+    100010: bend_pant_12t12_24x24_4
+    100012: bend_pant_12t12_24x24_5
+    100014: bifurk_24x30_0
+    100016: bifurk_24x30_1
+    100018: char
+    100020: connector_12t20_l20
+    100022: corp
+    100024: pant_12x2x20
+    100026: pant_12x4x30_0
+    100028: rampe
+    100030: //RootNode
+    100032: sails
+    100034: separator
+    100036: tunnel_8xXx20
+    100038: way_12x10
+    100040: way_12x11
+    100042: way_20x10_0
+    100044: wheel_AV
+    100046: wheel_L
+    100048: wheel_R
+    400000: bend_12t12_24x24_0
+    400002: bend_pant_12t12_24x24_0
+    400004: bend_pant_12t12_24x24_1
+    400006: bend_pant_12t12_24x24_2
+    400008: bend_pant_12t12_24x24_3
+    400010: bend_pant_12t12_24x24_4
+    400012: bend_pant_12t12_24x24_5
+    400014: bifurk_24x30_0
+    400016: bifurk_24x30_1
+    400018: char
+    400020: connector_12t20_l20
+    400022: corp
+    400024: pant_12x2x20
+    400026: pant_12x4x30_0
+    400028: rampe
+    400030: //RootNode
+    400032: sails
+    400034: separator
+    400036: tunnel_8xXx20
+    400038: way_12x10
+    400040: way_12x11
+    400042: way_20x10_0
+    400044: wheel_AV
+    400046: wheel_L
+    400048: wheel_R
+    2100000: lambert1
+    2300000: bend_12t12_24x24_0
+    2300002: bend_pant_12t12_24x24_0
+    2300004: bend_pant_12t12_24x24_1
+    2300006: bend_pant_12t12_24x24_2
+    2300008: bend_pant_12t12_24x24_3
+    2300010: bend_pant_12t12_24x24_4
+    2300012: bend_pant_12t12_24x24_5
+    2300014: bifurk_24x30_0
+    2300016: bifurk_24x30_1
+    2300018: connector_12t20_l20
+    2300020: corp
+    2300022: pant_12x2x20
+    2300024: pant_12x4x30_0
+    2300026: rampe
+    2300028: sails
+    2300030: separator
+    2300032: tunnel_8xXx20
+    2300034: way_12x10
+    2300036: way_12x11
+    2300038: way_20x10_0
+    2300040: wheel_AV
+    2300042: wheel_L
+    2300044: wheel_R
+    3300000: bend_12t12_24x24_0
+    3300002: bend_pant_12t12_24x24_0
+    3300004: bend_pant_12t12_24x24_1
+    3300006: bend_pant_12t12_24x24_2
+    3300008: bend_pant_12t12_24x24_3
+    3300010: bend_pant_12t12_24x24_4
+    3300012: bend_pant_12t12_24x24_5
+    3300014: bifurk_24x30_0
+    3300016: bifurk_24x30_1
+    3300018: connector_12t20_l20
+    3300020: corp
+    3300022: pant_12x2x20
+    3300024: pant_12x4x30_0
+    3300026: rampe
+    3300028: sails
+    3300030: separator
+    3300032: tunnel_8xXx20
+    3300034: way_12x10
+    3300036: way_12x11
+    3300038: way_20x10_0
+    3300040: wheel_AV
+    3300042: wheel_L
+    3300044: wheel_R
+    4300000: separator
+    4300002: tunnel_8xXx20
+    4300004: corp
+    4300006: wheel_L
+    4300008: sails
+    4300010: wheel_AV
+    4300012: wheel_R
+    4300014: connector_12t20_l20
+    4300016: way_20x10_0
+    4300018: bend_12t12_24x24_0
+    4300020: way_12x10
+    4300022: bend_pant_12t12_24x24_0
+    4300024: pant_12x4x30_0
+    4300026: bend_pant_12t12_24x24_1
+    4300028: bend_pant_12t12_24x24_2
+    4300030: bifurk_24x30_0
+    4300032: pant_12x2x20
+    4300034: bend_pant_12t12_24x24_3
+    4300036: bend_pant_12t12_24x24_4
+    4300038: bifurk_24x30_1
+    4300040: bend_pant_12t12_24x24_5
+    4300042: way_12x11
+    4300044: rampe
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
