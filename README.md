@@ -25,4 +25,4 @@ UI:
   
   Bottom-left: Speed at which the vehicle is going.
   
-This project was developped over the course of 4 weeks. Design and art by Sébastien Oddon, Jimmy Pham and Quentin Lemieux. Developped by me (Gabriel Meloche).
+This project was developped over the course of 4 weeks. Design and art by Sébastien Oddon, Jimmy Pham and Quentin Lemieux. Developped by Gabriel Meloche.
